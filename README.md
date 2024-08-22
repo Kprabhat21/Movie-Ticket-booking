@@ -57,8 +57,8 @@ some visual assets used in the project:
 To explore the design:
 
 1. Try Protoype:
-   \`\`\`bash
-   git clone https://github.com/YourUsername/Movie-Ticket-Booking-UI-UX.git
+   \`\`\`
+   https://github.com/YourUsername/Movie-Ticket-Booking-UI-UX.git
    \`\`\`
 
 ## 💬 Contact
