@@ -18,15 +18,17 @@ This project focuses on creating an intuitive and aesthetically pleasing user in
 ## 🌈 Color Palette
 ![Colour Palette](https://github.com/user-attachments/assets/7ba8f196-245c-4e3e-b75e-b478728d6670)
 
-- **Primary Color**:
+**- **Primary Color**:**
 1. 2E1371
 2. FE53BB
 3. B6116B
-- **Secondary Color**:
-                    1. 130B2B
-- **Other color**:
-                    1. 21232F
-                    2. 09FBD3
+   
+**- **Secondary Color**:**
+1. 130B2B
+   
+**- **Other color**:**
+1. 21232F
+2. 09FBD3
       
 ## 🎯 Key Features
 
