@@ -41,14 +41,15 @@ This project focuses on creating an intuitive and aesthetically pleasing user in
 
 Below are some visual assets used in the project:
 
-### 1. **Home Screen**
-   ![Home Screen](images/home-screen-mockup.png)
+### 1. **Cover page **
 
-### 2. **Movie Selection Screen**
-   ![Movie Selection](images/movie-selection-mockup.png)
 
-### 3. **Seat Selection Screen**
-   ![Seat Selection](images/seat-selection-mockup.png)
+### 2. **Movie ticket booking ios**
+![Movie ticket booking ios](https://github.com/user-attachments/assets/548936a1-70f4-49f5-b26a-618c5d6673fa)
+
+### 3. **Movie ticket booking Design**
+   ![Movie ticket booking Design](https://github.com/user-attachments/assets/6cbeec36-2f01-44c8-b9c5-beaed94a763e)
+
 
 ## 🚀 Getting Started
 
