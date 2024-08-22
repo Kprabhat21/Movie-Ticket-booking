@@ -3,7 +3,8 @@
 
 Welcome to the Movie Ticket Booking UI/UX Design project! This repository contains the design assets and prototypes for a modern, user-friendly movie ticket booking platform.
 
-![Movie Ticket Mockup](images/movie-ticket-mockup.png)
+![Movie ticket booking Cover](https://github.com/user-attachments/assets/f2f618f7-1206-402d-8ee4-20350d25d0c4)
+
 
 ## 🎨 Overview
 
