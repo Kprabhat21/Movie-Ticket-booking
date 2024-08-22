@@ -42,6 +42,7 @@ This project focuses on creating an intuitive and aesthetically pleasing user in
 Below are some visual assets used in the project:
 
 ### 1. **Cover page **
+![Movie ticket booking Cover](https://github.com/user-attachments/assets/15eb622c-14cf-4072-a483-c27319ce8921)
 
 
 ### 2. **Movie ticket booking ios**
