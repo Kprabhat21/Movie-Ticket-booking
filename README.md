@@ -39,7 +39,7 @@ This project focuses on creating an intuitive and aesthetically pleasing user in
 
 ## 📷 Visual Assets
 
-Below are some visual assets used in the project:
+some visual assets used in the project:
 
 ### 1. **Cover page **
 ![Movie ticket booking Cover](https://github.com/user-attachments/assets/15eb622c-14cf-4072-a483-c27319ce8921)
@@ -56,24 +56,14 @@ Below are some visual assets used in the project:
 
 To explore the design:
 
-1. Clone this repository:
+1. Try Protoype:
    \`\`\`bash
    git clone https://github.com/YourUsername/Movie-Ticket-Booking-UI-UX.git
    \`\`\`
-2. Open the design files in Figma or your preferred design tool.
-3. Review the \`images\` folder for all visual assets and mockups.
-
-## 👥 Contributing
-
-If you'd like to contribute to this project, please fork the repository, create a new branch, and submit a pull request. We welcome all improvements and new ideas!
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 💬 Contact
 
-If you have any questions or feedback, feel free to reach out via [email@example.com](mailto:email@example.com).
+If you have any questions or feedback, feel free to reach out via [prabhatkp21@iitk.ac.in](mailto:prabhatkp21@iitk.ac.in).
 
 ---
 
