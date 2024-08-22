@@ -14,17 +14,20 @@ This project focuses on creating an intuitive and aesthetically pleasing user in
 
 - **Figma**: For wireframing and prototyping the UI design.
 - **Photoshop & Illustrator**: For creating and refining visual elements.
-- **Canva**: For additional graphic design and presentation materials.
 
-## 🌈 Color Scheme & Typography
+## 🌈 Color Palette
+![Colour Palette](https://github.com/user-attachments/assets/7ba8f196-245c-4e3e-b75e-b478728d6670)
 
-- **Primary Color**: #FF6F61 (Coral)
-- **Secondary Color**: #2A2A72 (Deep Blue)
-- **Accent Color**: #F1C40F (Bright Yellow)
-- **Typography**: 
-  - **Headings**: Montserrat, Bold
-  - **Body Text**: Open Sans, Regular
-
+- **Primary Color**:
+1. 2E1371
+2. FE53BB
+3. B6116B
+- **Secondary Color**:
+                    1. 130B2B
+- **Other color**:
+                    1. 21232F
+                    2. 09FBD3
+      
 ## 🎯 Key Features
 
 - **User-Centric Design**: Focused on simplicity and ease of use.
