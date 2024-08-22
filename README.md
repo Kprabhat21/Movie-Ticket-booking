@@ -1,3 +1,4 @@
+
 # Movie Ticket Booking UI/UX Design 🎬🎟️
 
 Welcome to the Movie Ticket Booking UI/UX Design project! This repository contains the design assets and prototypes for a modern, user-friendly movie ticket booking platform.
@@ -48,5 +49,24 @@ Below are some visual assets used in the project:
 To explore the design:
 
 1. Clone this repository:
-   ```bash
+   \`\`\`bash
    git clone https://github.com/YourUsername/Movie-Ticket-Booking-UI-UX.git
+   \`\`\`
+2. Open the design files in Figma or your preferred design tool.
+3. Review the \`images\` folder for all visual assets and mockups.
+
+## 👥 Contributing
+
+If you'd like to contribute to this project, please fork the repository, create a new branch, and submit a pull request. We welcome all improvements and new ideas!
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 💬 Contact
+
+If you have any questions or feedback, feel free to reach out via [email@example.com](mailto:email@example.com).
+
+---
+
+**Thank you for checking out the Movie Ticket Booking UI/UX Design!** 🎥🍿
