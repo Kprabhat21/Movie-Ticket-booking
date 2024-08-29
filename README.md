@@ -58,7 +58,7 @@ To explore the design:
 
 1. Try Protoype:
    \`\`\`
-   https://github.com/YourUsername/Movie-Ticket-Booking-UI-UX.git
+   [https://github.com/YourUsername/Movie-Ticket-Booking-UI-UX.git](https://www.figma.com/proto/AX2Wgn5Jb0cHJUSl1njeCh/Movie-ticket-booking?node-id=24-168&t=3kft8e1H4NZ65G5s-1&scaling=min-zoom&content-scaling=fixed&page-id=15%3A138&starting-point-node-id=24%3A168)
    \`\`\`
 
 ## 💬 Contact
